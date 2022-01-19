@@ -1,2 +1,2 @@
-*Purpose
+#Purpose
 This game is designed within the structure of the Udemy course "The Complete JavaScript Course 2022".  After completing a bootcamp (MERN stack), my goal was to go through a javascript course and review all the skills that I learned.  My goal for the content of this game was to complete it from as close to 100% of memory as possible.  The files, code, git flow, and hosting was done with very little research.  For this reason, the structure is very minimalist and more a form of function than anything else.
