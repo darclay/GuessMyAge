@@ -5,9 +5,18 @@
     <link rel="stylesheet" href="style.css"></link>
   </head>
   <body>
-    <h1 id="starter">Hello World!</h1>
+    <h1 id="starter">GUESS MY AGE!</h1>
+    <p>(between 1-10)</p>
+    <h2 id="guessedNumber">?</h2>
     <input id="numInput" type="number" value="">
-    <button class="submitButton" onclick="">guess</button>
+    <button class="notActive" id="youLose">YOU LOSE! - TRY AGAIN</button>
+    <button class="active" id="submitButton">guess</button>
+
+    <div class="scoreSection">
+      <p id="highLowIndicator"></p>
+      <p>Score: <span id="playerScore">20</span></p>
+      <p>High Score: <span id="highScore">20</span></p>
+    </div>
     <script src="script.js"></script>
   </body>
 </html>

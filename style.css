@@ -1,3 +1,9 @@
 body {
-  background-color: green;
+  background-color: rgb(223, 153, 153);
+}
+.active {
+  background-color: #72f8e2;
+}
+.notActive {
+  display: none;
 }
